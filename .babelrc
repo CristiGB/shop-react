@@ -1,0 +1,9 @@
+{
+    "presets" : [
+        "@babel/preset-env", //ayuda a compilar emascript 6+ y javasccript moderno
+        "@babel/preset-react"
+    ],
+    "plugins": [
+		"@babel/plugin-transform-runtime"
+	]
+}
